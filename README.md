@@ -20,5 +20,5 @@
 
 # Tool
 <img src="https://img.shields.io/badge/amazonaws-FFFFFF?style=flat-square&logo=amazonaws&logoColor=black"/>
-<img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=Git&logoColor=black"/>
 <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/>
