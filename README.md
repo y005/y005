@@ -8,7 +8,7 @@
 
 # Language
 <img src="https://img.shields.io/badge/C-FFFFFF?style=flat-square&logo=C&logoColor=black"/>
-<img src="https://img.shields.io/badge/CPP-FFFFFF?style=flat-square&logo=Cpp&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-FFFFFF?style=flat-square&logo=C++&logoColor=black"/>
 <img src="https://img.shields.io/badge/.Net-FFFFFF?style=flat-square&logo=.Net&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=Python&logoColor=black"/>
 
@@ -19,5 +19,6 @@
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
 
 # Tool
-<img src="https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=Git&logoColor=black"/>
+<img src="https://img.shields.io/badge/AmazonAws-FFFFFF?style=flat-square&logo=AmazonAws&logoColor=black"/>
+<img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/>
 <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/>
