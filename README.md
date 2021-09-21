@@ -8,8 +8,8 @@
 
 # Language
 <img src="https://img.shields.io/badge/C-FFFFFF?style=flat-square&logo=C&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-FFFFFF?style=flat-square&logo=C++&logoColor=black"/>
-<img src="https://img.shields.io/badge/C#-FFFFFF?style=flat-square&logo=C#&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cpp-FFFFFF?style=flat-square&logo=Cpp&logoColor=black"/>
+<img src="https://img.shields.io/badge/Net-FFFFFF?style=flat-square&logo=Net&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=Python&logoColor=black"/>
 
 # Platform
