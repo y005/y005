@@ -11,7 +11,7 @@ C C++ C# Python JAVA
 
 # Platform
 Flask Selenium Pandas Unity 
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-FFFFFF?style=flat-square&logo=Flask&logoColor=black"/>
 
 # Tool
 git notion 
