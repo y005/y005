@@ -1,5 +1,3 @@
-#### [Portfolio](https://deluxe-mahogany-9ff.notion.site/Hello-World-09aaf6244c974ec88b9d6a8af38b1429)
-
 #### My Skills
 
 #### Language
