@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-FFFFFF?style=flat-square&logo=Flask&logoColor=black"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 
 #### Tool
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/amazonaws-4285F4?style=flat-square&logo=amazonaws&logoColor=yellow"/> <img src="https://img.shields.io/badge/googlecloud-232F3E?style=flat-square&logo=googlecloud&logoColor=black"/> <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/amazonaws-4285F4?style=flat-square&logo=amazonaws&logoColor=yellow"/> <img src="https://img.shields.io/badge/googlecloud-232F3E?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/>
 
 #### My Github Stat
 
