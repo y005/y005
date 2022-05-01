@@ -25,7 +25,7 @@
 
 
 #### Etc
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/> <img src="https://img.shields.io/badge/Notion-F5F5DC?style=flat-square&logo=Notion&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Intellij-7D00FF?style=flat-square&logo=IntellijIdea&logoColor=black"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/> <img src="https://img.shields.io/badge/Notion-F5F5DC?style=flat-square&logo=Notion&logoColor=black"/> 
 
 #### My Github Stat
 
