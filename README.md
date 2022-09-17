@@ -1,6 +1,4 @@
 <div align="center">
-
-#### [Portfolio](https://talented-farmhouse-3ae.notion.site/Hello-World-36633d9985804afcaa5e3dd9166ded20)
   
 ### Language
 <img src="https://img.shields.io/badge/Java-FF160B?style=flat-square&logo=java&logoColor=white"/> 
